@@ -1,0 +1,12 @@
+/Users/bileskou/Documents/Projects/MsgPack-Lib/MsgPack-Lib.Demo/bin/Debug/netcoreapp1.1/MsgPack-Lib.Demo.deps.json
+/Users/bileskou/Documents/Projects/MsgPack-Lib/MsgPack-Lib.Demo/bin/Debug/netcoreapp1.1/MsgPack-Lib.Demo.runtimeconfig.json
+/Users/bileskou/Documents/Projects/MsgPack-Lib/MsgPack-Lib.Demo/bin/Debug/netcoreapp1.1/MsgPack-Lib.Demo.runtimeconfig.dev.json
+/Users/bileskou/Documents/Projects/MsgPack-Lib/MsgPack-Lib.Demo/bin/Debug/netcoreapp1.1/MsgPack-Lib.Demo.dll
+/Users/bileskou/Documents/Projects/MsgPack-Lib/MsgPack-Lib.Demo/bin/Debug/netcoreapp1.1/MsgPack-Lib.Demo.pdb
+/Users/bileskou/Documents/Projects/MsgPack-Lib/MsgPack-Lib.Demo/bin/Debug/netcoreapp1.1/MsgPack-Lib.dll
+/Users/bileskou/Documents/Projects/MsgPack-Lib/MsgPack-Lib.Demo/bin/Debug/netcoreapp1.1/MsgPack-Lib.pdb
+/Users/bileskou/Documents/Projects/MsgPack-Lib/MsgPack-Lib.Demo/obj/Debug/netcoreapp1.1/MsgPack-Lib.Demo.csprojResolveAssemblyReference.cache
+/Users/bileskou/Documents/Projects/MsgPack-Lib/MsgPack-Lib.Demo/obj/Debug/netcoreapp1.1/MsgPack-Lib.Demo.csproj.CoreCompileInputs.cache
+/Users/bileskou/Documents/Projects/MsgPack-Lib/MsgPack-Lib.Demo/obj/Debug/netcoreapp1.1/MsgPack-Lib.Demo.AssemblyInfo.cs
+/Users/bileskou/Documents/Projects/MsgPack-Lib/MsgPack-Lib.Demo/obj/Debug/netcoreapp1.1/MsgPack-Lib.Demo.dll
+/Users/bileskou/Documents/Projects/MsgPack-Lib/MsgPack-Lib.Demo/obj/Debug/netcoreapp1.1/MsgPack-Lib.Demo.pdb

@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{7F06814B-5FE5-4688-9DF1-CA74F460BDCB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MsgPack-Lib.Test/UnitTest1.cs">
+    <Files>
+      <File FileName="MsgPack-Lib/MessagePack.cs" Line="44" Column="1" />
+      <File FileName="MsgPack-Lib.Test/UnitTest1.cs" Line="18" Column="6" />
+      <File FileName="MsgPack-Lib.Demo/Program.cs" Line="12" Column="10" />
+      <File FileName="MsgPack-Lib/Core/DefineFormatter.cs" Line="20" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MsgPack-Lib.Demo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MsgPack-Lib.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
