@@ -1,8 +1,0 @@
-/Users/bileskou/Documents/Projects/MsgPack-Lib/MsgPack-Lib/bin/Debug/netstandard1.4/MsgPack-Lib.deps.json
-/Users/bileskou/Documents/Projects/MsgPack-Lib/MsgPack-Lib/bin/Debug/netstandard1.4/MsgPack-Lib.dll
-/Users/bileskou/Documents/Projects/MsgPack-Lib/MsgPack-Lib/bin/Debug/netstandard1.4/MsgPack-Lib.pdb
-/Users/bileskou/Documents/Projects/MsgPack-Lib/MsgPack-Lib/obj/Debug/netstandard1.4/MsgPack-Lib.csproj.CoreCompileInputs.cache
-/Users/bileskou/Documents/Projects/MsgPack-Lib/MsgPack-Lib/obj/Debug/netstandard1.4/MsgPack-Lib.AssemblyInfo.cs
-/Users/bileskou/Documents/Projects/MsgPack-Lib/MsgPack-Lib/obj/Debug/netstandard1.4/MsgPack-Lib.dll
-/Users/bileskou/Documents/Projects/MsgPack-Lib/MsgPack-Lib/obj/Debug/netstandard1.4/MsgPack-Lib.pdb
-/Users/bileskou/Documents/Projects/MsgPack-Lib/MsgPack-Lib/obj/Debug/netstandard1.4/MsgPack-Lib.csprojResolveAssemblyReference.cache
